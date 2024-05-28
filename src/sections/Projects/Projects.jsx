@@ -4,6 +4,8 @@ import ProjectCard from '../../common/ProjectCard';
 import Social from '../../assets/social.jpg';
 import Magnifier from "../../assets/magnifier.jpg";
 import Asteroid from '../../assets/asteroid.jpg';
+import Portfolio_Img from '../../assets/portfolio_icon.jpg';
+import Price from '../../assets/price.jpg';
 
 function Projects() {
   return (
@@ -35,16 +37,16 @@ function Projects() {
           p="Fitness App"
         />
         <ProjectCard
-          src={fitLift}
-          link="https://github.com/aka-0803/Fitness_exercise_app"
+          src={Portfolio_Img}
+          link="https://github.com/aka-0803/portfolio-website"
           h3="Akash.com"
           p="Portfolio Website"
         />
         <ProjectCard
-          src={fitLift}
-          link="https://github.com/aka-0803/Fitness_exercise_app"
-          h3="Golds Gym"
-          p="Fitness App"
+          src={Price}
+          link="https://github.com/aka-0803/real-estate-price-prediction"
+          h3="Price predictor"
+          p="Real estate price predictor"
         />
       </div>
     </section>
