@@ -1,8 +1,6 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! I’m Akash Bahadur Singh, an Associate Software Engineer with a passion for software development and machine learning. This portfolio showcases my work, skills, and projects that I’ve undertaken.
+## About Me
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am a recent graduate from the National Institute of Technology, Durgapur, with a Bachelor of Technology in Computer Science. I am currently working as an Associate Software Engineer at Truein. My goal is to leverage my skills to create innovative solutions and make a positive impact in the tech industry.
