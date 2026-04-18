@@ -36,41 +36,41 @@ export function Contact() {
           </p>
 
           <div className="pt-8 flex flex-col space-y-4 text-left">
-            <div className="flex items-center space-x-4 group cursor-pointer w-fit pl-2">
+            <a href="mailto:akashbahadursingh5@gmail.com" className="flex items-center space-x-4 group cursor-pointer w-fit pl-2">
               <div className="p-3 rounded-xl border border-white/10 bg-transparent group-hover:border-white/20 transition-colors">
                 <Mail className="w-5 h-5 text-neutral-400" />
               </div>
               <span className="font-mono text-sm text-neutral-300 group-hover:text-white transition-colors">
                 akashbahadursingh5@gmail.com
               </span>
-            </div>
+            </a>
 
-            <div className="flex items-center space-x-4 group cursor-pointer w-fit pl-2">
+            <a href="https://linkedin.com/in/akash-bahadur-singh" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-4 group cursor-pointer w-fit pl-2">
               <div className="p-3 rounded-xl border border-white/10 bg-transparent group-hover:border-white/20 transition-colors">
                 <LinkedinIcon className="w-5 h-5 text-neutral-400" />
               </div>
               <span className="font-mono text-sm text-neutral-300 group-hover:text-white transition-colors">
                 in/akash-bahadur-singh
               </span>
-            </div>
+            </a>
 
-            <div className="flex items-center space-x-4 group cursor-pointer w-fit pl-2">
+            <a href="https://github.com/aka-0803" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-4 group cursor-pointer w-fit pl-2">
               <div className="p-3 rounded-xl border border-white/10 bg-transparent group-hover:border-white/20 transition-colors">
                 <GithubIcon className="w-5 h-5 text-neutral-400" />
               </div>
               <span className="font-mono text-sm text-neutral-300 group-hover:text-white transition-colors">
                 github.com/aka-0803
               </span>
-            </div>
+            </a>
 
-            <div className="flex items-center space-x-4 group cursor-pointer w-fit pl-2">
+            <a href="https://x.com/AkashbahadurSi5" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-4 group cursor-pointer w-fit pl-2">
               <div className="p-3 rounded-xl border border-white/10 bg-transparent group-hover:border-white/20 transition-colors">
                 <TwitterIcon className="w-5 h-5 text-neutral-400" />
               </div>
               <span className="font-mono text-sm text-neutral-300 group-hover:text-white transition-colors">
                 @AkashbahadurSi5
               </span>
-            </div>
+            </a>
           </div>
         </motion.div>
 
