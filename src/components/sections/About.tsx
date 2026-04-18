@@ -11,7 +11,7 @@ export function About() {
       
       <div className="grid md:grid-cols-12 gap-16 items-start">
         <motion.div variants={fadeUpVariant} className="md:col-span-6 flex flex-col space-y-6">
-          <p className="text-neutral-500 font-mono text-xs uppercase tracking-widest">// Headline</p>
+          <p className="text-neutral-500 font-mono text-xs uppercase tracking-widest">{"// Headline"}</p>
           <h3 className="text-4xl md:text-5xl font-bold tracking-tight leading-tight">
             <span className="text-white">Backend Engineer</span><br/>
             <span className="text-neutral-500 font-medium text-3xl">· SaaS · Node.js · NestJS · TypeScript</span>
