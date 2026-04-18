@@ -80,13 +80,15 @@ export function Hero() {
             <Mail className="w-4 h-4 mr-2" />
             Contact Me
           </Link>
-          <Link
-            href="#"
+          <a
+            href="/resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="w-full sm:w-auto inline-flex items-center justify-center px-6 py-3 text-sm font-medium text-neutral-400 hover:text-white transition-colors ml-0 sm:ml-4"
           >
             <Download className="w-4 h-4 mr-2" />
             Resume
-          </Link>
+          </a>
         </motion.div>
 
         {/* Terminal block from UI */}
